@@ -42,3 +42,4 @@ while vv < 10
   turn(board)
   vv += 1
 end
+end
