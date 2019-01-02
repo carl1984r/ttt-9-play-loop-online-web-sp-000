@@ -37,7 +37,6 @@ end
 
 # Define your play method below
 def play(board)
-
 vv = 0
 while vv < 10
   turn(board)
